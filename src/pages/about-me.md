@@ -13,18 +13,12 @@ I’m very active in the government design community, where my focus is on build
 
 I love collaborating with and learning from others - designing and facilitating workshops that bring people together to create better, more user centred and accessible public services.
 
-
-
 # Experience
 
 **Service design, Building design capability across government, Government Digital Service**\
 September 2017 - Current
 
-
-
 Helping to build the design and UCD capability across government by delivering and iterating Service Design training courses for the cross government community,  by providing mentorship for people interested in learning about service design or becoming one, and presenting at meetups and conferences in the UK.
-
-
 
 I have also shared our work and learnings by speaking/doing workshops at:
 
@@ -36,13 +30,11 @@ I have also shared our work and learnings by speaking/doing workshops at:
 
 \- [International Design in Government conference](https://international.gov-design.com/): workshop in collaboration with the Italian government on Design Systems, London 2018
 
-\- [Service Design Delivery in Chile](http://media.licdn.com/embeds/media.html?src=https%3A%2F%2Ftwitter.com%2FChileAtiende%2Fstatus%2F1085544379404767232&amp;url=https%3A%2F%2Ftwitter.com%2FChileAtiende%2Fstatus%2F1085544379404767232&amp;type=text%2Fhtml&amp;schema=twitter) - OECD and ChileAtiende, Santiago 2019
+\- [Service Design Delivery in Chile](http://media.licdn.com/embeds/media.html?src=https%3A%2F%2Ftwitter.com%2FChileAtiende%2Fstatus%2F1085544379404767232&url=https%3A%2F%2Ftwitter.com%2FChileAtiende%2Fstatus%2F1085544379404767232&type=text%2Fhtml&schema=twitter) - OECD and ChileAtiende, Santiago 2019
 
 \- [Upfront conference](https://upfrontconf.com/), “Designing the service behind the GOV.UK Design System”, Manchester 2019
 
 \- [Leeds Gov Design meetup](https://www.ermlikeyeah.com/leedsgovdesign/), “How to collaborate on services - our experience with service communities”, Leeds 2019
-
-
 
 And by writing blog posts:
 
@@ -50,35 +42,21 @@ And by writing blog posts:
 
 \- [Opening up the GOV.UK Design System for contributions](https://designnotes.blog.gov.uk/2018/09/26/opening-up-the-gov-uk-design-system-for-contributions/) - co written with Amy Hupe
 
-
-
 I am also part of the diversity & inclusion working group in the design community, committed to improving the current community while creating a more inclusive environment for future designers to join.
 
 **Service design, GOV.UK, Government Digital Service**\
 August 2019 - Current
 
-
-
 Working across various [GOV.UK](https://www.gov.uk/) brexit teams, with UCD and non UCD disciplines to bring those teams together (product managers, developers, content, user research, etc), share findings and insights and look at improving the end to end user journey to support people in preparing for Brexit. 
 
-
-
 Providing better join-up amongst the product teams, by facilitating discussions through workshops, and making sure there are actionable things we can take forward and we reduce the duplication of work. 
-
-
 
 **Service design, Service Communities, Government Digital Service**\
 January 2019 - July 2019
 
-
-
 A [service community](https://gds.blog.gov.uk/2019/01/28/what-service-communities-are-achieving-across-government/) is a network of people from across the public sector who work together to design and deliver an end-to-end service. A service community provides a framework for collaboration that makes it easier to solve common challenges.
 
-
-
 Our main objective over these 6 months was enabling people to set up service communities, removing dependencies on GDS and enabling the growth of communities within government.
-
-
 
 Some of the things I did:
 
@@ -94,14 +72,10 @@ Some of the things I did:
 
 \- informed the new 2030 vision of GDS, collaborating with the Strategy & Engagement team. This has been framed as life events and the need for cross departmental working on services as users see them.
 
-
-
 **Service design, Service Assessment improvements, Government Digital Service**\
 November 2018 - December 2018
 
 With the introduction of the new [Service Standard](https://www.gov.uk/service-manual/service-standard), there was an opportunity to significantly improve the way we ensure that service teams meet our standards. The challenge was to start bringing [service assessments](https://www.gov.uk/service-manual/service-assessments) in line with the new service standard. This work was focused on identifying quick wins and a plan for further work. 
-
-
 
 Some of the improvements were:
 
@@ -113,18 +87,10 @@ Some of the improvements were:
 
 \- providing a report with main user research findings, recommendations, a roadmap and priorities of future work 
 
-
-
 **Service design, GOV.UK Design System, Government Digital Service**\
 September 2017 - December 2018
 
-
-
-
-
 I was responsible for the service elements of the [GOV.UK Design System](https://design-system.service.gov.uk/), leading on the design of sustainable models for support, contribution, assurance and community development.
-
-
 
 **Contribution** - I worked closely with Design System users to create a place for them to contribute ideas, share research and discuss components and patterns. I developed a simple model for making and supporting contributions, so that the process is clear for users and the team.
 
@@ -144,66 +110,40 @@ The team provides high level support to users and handles about 100 tickets a mo
 
 Check out the [community section in the GOV.UK Design System](https://design-system.service.gov.uk/community/) to see more.
 
-
-
 **Service Design, Livework**\
 January 2017 - July 2017
-
-
 
 Supported internal projects and collaboratively developed a [Livework](https://www.liveworkstudio.com/) Internal Performance Review Process.
 
 Supported external client projects through interviewing, workshop facilitation, sense-making of research, visualization, graphic design, journey mapping, and presenting to clients and stakeholders among others. (Some of the clients: Luxury fashion brand, AMEX GBT, HS2 Ltd, CGI, British Gas)
 
-
-
 **Service Design Futures event, Service Design Fringe Festival 2016**\
 September 2016
 
-
-
 Ideation, designing, and planning of the [“Service Design Futures”](https://www.youtube.com/watch?v=XcDK6uImdC4) event. An event of talks (speakers from Fjord, Deloitte Digital and We Question Our Project) workshops, and activities showcasing work that service designers are doing across London and the world.
-
-
 
 **Graphic Designer at Armstrong & Asociados**\
 Santiago, Chile — 2015
 
-
-
 While working at [Armstrong & Asociados](https://www.armstrongchile.com) I developed visual communication, branding, editorial, brochures and merchandising for LarrainVial, BUPA, Cruz Blanca, Camara Chilena de la Construcción.
-
-
 
 **Art Director, Brandbook**\
 Santiago, Chile — 2014
 
 At [Brandbook](http://www.brandbook.cl/) I lead on the art direction and graphic design for national fashion brands. Creating advertising campaigns, press, social media, photo shoots, among others. I also delivered presentations to clients.
 
-
-
 **Art Director at McCann Erickson**\
 Santiago, Chile — 2012- 2014
 
 During my time at [McCann Erickso](https://www.mccann.cl/)n I worked on the art direction and graphic design for international brands LOREAL and MAYBELLINE. Concept development, communications strategy, graphics for social media, press and billboards. Art direction for photo shoots and commercial spots.
 
-
-
-
-
 # Education
-
-
 
 **MDes Service Design Innovation at the University of the Arts London**\
 London, UK — 2015-2016
 
-
-
 **Diploma in “Digital Integration, Culture, Strategy and DIgital Creativity” at  Universidad del Pacfíco**\
 Santiago, Chile — 2013 
-
-
 
 **BA in Graphic Design & Visual Communication at Universidad del Pacfíco**\
 Santiago, Chile — 2007-2012
