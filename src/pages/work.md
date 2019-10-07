@@ -1,6 +1,6 @@
 ---
 layout: layouts/page.njk
 title: Work
-permalink: ''
+permalink: /work/INDEX.HTML
 ---
 Work in progress
