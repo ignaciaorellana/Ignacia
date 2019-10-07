@@ -9,6 +9,10 @@
       "text": "About",
       "url": "/about",
       "external": false
+    },
+    {
+      "text": "Work",
+      "url": "https://ignacia.netlify.com/work"
     }
   ]
 }
